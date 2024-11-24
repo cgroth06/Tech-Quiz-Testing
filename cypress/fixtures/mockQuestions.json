@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "1",
+    "question": "What is 2 + 2?",
+    "answers": [
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true },
+      { "text": "5", "isCorrect": false },
+      { "text": "6", "isCorrect": false }
+    ]
+  },
+  {
+    "_id": "2",
+    "question": "What is python?",
+    "answers": [
+      { "text": "A Food", "isCorrect": false },
+      { "text": "A Snake", "isCorrect": false },
+      { "text": "A Programming Language", "isCorrect": true },
+      { "text": "A Cartoon Character", "isCorrect": false }
+    ]
+  }
+]
