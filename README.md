@@ -19,7 +19,7 @@ After downloading  the repository, npm i, npm run build,  npm run seed, npm run 
 
 ## Usage
 
-See this video walkthrough for a demonstration.
+[See this video walkthrough for a demonstration](https://drive.google.com/file/d/1A6jfThkgNHQlv4kSwDtjy-HyY5K8f6n8/view?usp=sharing)
 
 ## Contributions
 

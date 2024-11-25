@@ -23,6 +23,11 @@ describe('Quiz Application', () => {
       // Select the correct answer for the first question
       cy.contains('4').click();
 
+      // Select the correct answer for the second question
+    // Here is Where I am stuck...
+    //   cy.get('.card').should('contain.text', 'What is python?');
+    //   cy.contains('A Programming Language').click();
+
     });
   
     it('completes the quiz and displays the final score', () => {
